@@ -1,2 +1,2 @@
 # security-fix-demo
-Demo repo for Terraform security vulnerabilities and fixes.
+Terraformのセキュリティ脆弱性と修正のデモリポジトリです。
